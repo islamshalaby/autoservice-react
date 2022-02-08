@@ -1,0 +1,1 @@
+export const SUPPORTED_COUNTRIES = ["6184aea034e78407518074e8", "617e7a2e0eb9c0caf3bbacff"]

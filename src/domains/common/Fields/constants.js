@@ -1,0 +1,1 @@
+export const UPLOAD_IMAGE_LINK = 'https://res.cloudinary.com/auto-service/image/upload/';
